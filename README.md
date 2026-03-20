@@ -23,3 +23,6 @@
 ## The final layer is a user-facing dashboard built with Plotly Dash. This interface allows non-technical users to interact with the complex backend. Users can select any two NBA teams from dropdown menus, and the dashboard sends a request to the FastAPI backend. It then dynamically displays the predicted winner and the confidence level (probability) of that prediction.
 
 ## OUTPUT:
+<img width="1911" height="642" alt="Image" src="https://github.com/user-attachments/assets/6ebf438c-9f8e-4219-8197-9b5fabf7545b" />
+
+<img width="1912" height="1026" alt="Image" src="https://github.com/user-attachments/assets/38bd7765-ec0e-475e-adef-2cab97c42b48" />
